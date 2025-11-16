@@ -7,3 +7,5 @@ Using a dataset of over 50,000 videos, multiple models were evaluated,
 and Gradient Boosting was selected as the best-performing model,
 providing low MAE and strong generalization with minimal R² difference
 between training and test sets.
+
+Our final model (Gradient Boosting) is in Deep's folder.
